@@ -17,8 +17,5 @@
 6. NETC
 7. BBPS
 8. CTS
-
-## 2. Cash withdrawls
-
-1 .NFS (through ATMs)
-2. AePS (through micro ATMs / BCs)
+9. NFS (through ATMs)
+10. AePS (through micro ATMs / BCs)
