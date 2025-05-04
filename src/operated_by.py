@@ -13,10 +13,7 @@ NPCI_OPERATED = [
     "NACH_Debit",
     "NETC",
     "BBPS",
-    "CTS"
-]
-
-CASH_WITHDRAWLS = [
+    "CTS",
     "NFS",
     "AePS"
 ]
